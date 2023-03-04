@@ -1,0 +1,24 @@
+[{
+    "ProductId": 1,
+    "ProductName": "TT Bat",
+    "Price": 500,
+    "Quantity": 10
+}, {
+    "ProductId": 2,
+    "ProductName": "TT Ball",
+    "Price": 120,
+    "Quantity": 20
+},
+{
+    "ProductId": 3,
+    "ProductName": "TT Board",
+    "Price": 50000 ,
+    "Quantity": 2
+},
+{
+    "ProductId": 104,
+    "ProductName": "Net",
+    "Price": 500,
+    "Quantity": 4
+}
+]
